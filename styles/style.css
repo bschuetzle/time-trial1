@@ -1,0 +1,10 @@
+body {
+  background-color: green;
+}
+
+.header {
+  height: 100px;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
